@@ -1,0 +1,23 @@
+body {
+	width: 1366px;
+	margin:0px auto;
+}
+.container {
+	margin-top: 20px;
+}
+#navigation {
+	margin-bottom: 10px;
+}
+
+
+/*Year summary style*/
+.summary {
+	border: 1px solid red;
+}
+
+.bracketImg {
+	margin: auto;
+}
+.recordHead {
+	font-weight: 800;
+}
