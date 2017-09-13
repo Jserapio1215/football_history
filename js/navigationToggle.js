@@ -6,18 +6,18 @@ $(document).ready(function() {
 function hideSection() {
     $('#global1').on('click', function() {
         $('#mainContent').show();
-        $('#champs').hide();
+        $('#records').hide();
         $('#rankings').hide();
     });
 
     $('#global2').on('click', function() {
         $('#rankings').show();
         $('#mainContent').hide();
-        $('#champs').hide();
+        $('#records').hide();
     });
 
     $('#global3').on('click', function() {
-        $('#champs').show();
+        $('#records').show();
         $('#mainContent').hide();
         $('#rankings').hide();
     });

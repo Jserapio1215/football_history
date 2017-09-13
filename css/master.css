@@ -8,11 +8,18 @@ body {
 #navigation {
 	margin-bottom: 10px;
 }
-
+#footerStyle {
+	border: 1px solid red;
+    padding: 10px;
+    margin: 10px 0px;
+    text-align: center;
+    background-color: #eee;
+}
 
 /*Year summary style*/
 .summary {
 	border: 1px solid red;
+	margin-top: 10px;
 }
 
 .bracketImg {
