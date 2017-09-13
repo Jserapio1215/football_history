@@ -9,7 +9,7 @@ body {
 	margin-bottom: 10px;
 }
 #footerStyle {
-	border: 1px solid red;
+	/*border: 1px solid red;*/
     padding: 10px;
     margin: 10px 0px;
     text-align: center;
@@ -18,8 +18,9 @@ body {
 
 /*Year summary style*/
 .summary {
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	margin-top: 10px;
+	/*background-color: #eee;*/
 }
 
 .bracketImg {
